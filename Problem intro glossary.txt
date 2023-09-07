@@ -1,0 +1,151 @@
+Write down glossary terms from 
+DNA
+	Cell - building block of life
+	Eukaryotic cells - Cells in most complex forms of life, including all multicell organisms
+	Nucleus - Central component of eukaryotic cells, contains the cell's DNA
+	Chromatin - The dense collection of nucleic acids and proteins in a cells nucleus
+	Mitosis - Eukaryotic cell division
+	Chromosomes - Long thin strings chromatin turns into during mitosis
+	Polymer - Chain of monomers, tend to be long and thin and thus tend to be called "strands"
+	Monomer - The units that make up a polymer
+	Nucleotide - The nucleic acid monomer that forms nucleic acids. Each nucleotide is made up of a sugar molecule, 
+					a phosphate (negatively charged ion), and a compound called a nucleobase ("base" for short).
+	Nucleic acids - Polymer of nucleotides, one of the macromolecules found in chromatin. 
+						The nucleotides form a strand of nucleic acid where the sugar of one nucleotide bonds 
+						with the phosphate of the next nucleotide in the chain.
+	Nucleobase - The compound that differentiates nucleotides of the same type (type is determined by the sugar molecule in the nucleotide)
+	Primary structure of a nucleic acid - 
+					The specific order the different bases of the given nucleic acid appear in
+	DNA - Deoxyribose nucleic acid, a nucleic acid where deoxyribose is the sugar in the nucleotide.
+			There are four different nucleobases in DNA, adenine(A), cytosine(C), guanine(G) and thymine(T).
+	Genome - The collection of all the different DNA from all the chromosomes of an organism 
+	
+RNA
+	RNA - Ribose nucleic acid, a nucleic acid where ribose is the sugar in the nucleotide.
+			RNA has the same bases as DNA with the exception of thymine(T) which is replaced with uracil(U).
+	mRNA - Messenger RNA, an RNA molecule used as the blueprint for translation into protein. Created during RNA transcription.
+	RNA transcription - The process where DNA is converted into mRNA. A strand of DNA is used as a template to construct a strand of
+			RNA by copying the nucleotides in the RNA one at a time with uracil being used in place of thymine.
+
+REVC
+	Secondary structure of DNA - DNA is formed of two strands running in opposite directions. 
+		The bases of each strand bond with a base in the other strand (one-to-one).
+		Each base only bonds with its complementary base (adenine with thymine, cytosine with guanine)
+	Tertiary structure of DNA - The 3d structure of the two strands of DNA form, i.e. the double helix
+
+GC
+	GC-Content of a nucleic acid - The percentage of cytosine and guanine in a nucleic acid.
+			Can be used to possibly determine the species a nucleic acid comes from.
+			
+HAMM
+	Mutation - When a copy of a nucleic acid doesnt contain exactly the same bases as the original copy.
+	Point mutation - A single nucleotide in a copy of a nucleic acid that doesnt have the same base as the original copy.
+	Homolgous DNA strands - Strands from different species are "homologous" if they share a recent ancestor
+	Parsimony - The biological principle that nature tends to take the shortest path in evolution
+	
+IPRB
+	Blending inheritance - Faulty theory that each trait of a organism is a blend of the traits of its parents (i.e. blend of the same trait from each parent)
+	Factor - The mendelian unit of heredity. Each factor determines a trait of the organism
+	Allele - One of two possible forms of a factor
+	Mendel's first law - Each gene has two alleles, one from each parent (each parent randomly contributes one of their alleles for the gene to the offspring).
+	Homozygous individual given a factor - The individual alleles for the factor are the same
+	Heterozygous individual given a factor - The individual alleles for the factor are different.
+	Dominant allele - If an individual has a dominant allele for the factor that allele determines the trait irregardless of the other allele.
+	Recessive allele - If an individual has a recessive allele for the factor that allele only determines the trait if the other allele is also recessive.
+	Genotype of an organism - The precise genetic makeup of an organism. Every allele, dominant or recessive, determines the genotype.
+	Phenotype of an organism - The physical manifestation of an organisms makeup. Only the alleles that determine the organisms traits determine the phenotype
+	Punnett square - A method to represent the four different combinations of alleles for a given factor that a organism can inherit for that factor
+			given its parents alleles for that factor.
+			
+PROT
+	Protein - Polymers of amino acids. Proteins power every practical function carried out by a cell.
+	Polypeptide - Some proteins are composed of several polymer subchains called polypeptides, while others are formed of a single polypeptide
+	Primary structure of a protein - Like nucleic acids, the primary structure is determined by the order of its bases.
+	Proteomics - Study of proteins and their properties
+	The genetic code - The exact specifications for how nucleic acid codons are translated into amino acids
+	Codon - Three contiguous nucleotides of an rna that get translated into a amino acid of a protein
+	Start codon - AUG, a special type of codon which always indicates the start of a translation to a protein. T
+	Stop codon - UAA, UAG and UGA, special type of codons that mark the end of a translation into a protein. These do not translate into a amino acid.
+	tRNA - Transfer RNA, a helper molecule that carries the amino acid corresponding to a specific codon and is used to provide the correct amino acids when translating mRNA to protein.
+	Ribosome - A part of eukaryotic cells that creates peptides by reading the codons of a mRNA, one at a time, and bonding the amino acid from a tRNA corresponding to the codon to the peptide.
+	Central dogma of molecular biology - The statement that "protein is always trascribed from RNA, and RNA is always transcribed from DNA". Not always true (but a good approximation).
+	Gene - a interval of DNA or RNA that gets translated into a protein.
+		
+SUBS
+	Motif - A interval of nucleotides in DNA that is repeated multiple times in the dna.
+	Alu repeat - The most common motif in human dna, approx 300 base pairs long and recurs around a million times in every human genome.
+
+LIA
+	Mendel's second law - The alleles for different factors are inherited independently of each other (inheriting one or the other allele for some factor doesnt affect the probabilities of which alleles are inherited for other factors)
+
+MPRT
+	Domain within a protein - A interval of amino acids within a protein that can evolve, and function, indepently of other parts of the protein.
+		Each domain usually corresponds to a single function of he protein (e.g. binding the protein to dna, creating or breaking specific chemical bonds, ect.)
+		Some proteins are only have one domain of amino acids, while others can be composed of multiple domains.
+	Chimeric protein - Protein that is artifically constructed by fusing different domains into some protein.
+	Protein family - A group of proteins that have evolved from the same (ancestor) protein (and as such they are "homologous").
+		Proteins within a protein family usually have the same domains.
+	Motif in proteins - A component of a domain essential for its function is called a motif (similar to nucleic acid motifs). 
+		Protein motifs usually dont change much between different species.
+	Protein databases - Data on proteins is gathered in protein databases, some are freely accessible such as UniProt.
+
+ORF
+	Junk DNA - DNA that serves no practical purpose to the cell.
+	Protein translation starting point - Translation starting point can be at any position aalong a strand of RNA, not just at positions 0 mod 3.
+		Has to start with a "start codon" (AUG) and end at the first stop codon.
+	Reading frame of a DNA - A interval within a DNA string that can be translated from DNA to RNA to amino acids.
+		Six possible reading frames within the same region of DNA (0 mod 3, 1 mod 3 and 2 mod 3 for the DNA string itself, and then the same start positions within the complementary string)
+	Open reading frame(ORF) - A reading frame that starts with a start codon and ends at a stop codon (without any stop codons in between)
+	
+PERM
+	Genome rearrangement - A mutation that affects the makeup of entire intervals of nucleic acid. Unlike point mutations, genome rearrangements can create/differentiate entire species.
+		This type of mutations moves around huge (how huge?) blocks of DNA.
+		Usually fatal or with negative influence, so its very rare that these changes influence an entire species.
+	Synteny block - Similar intervals of DNA (intervals defined by researchers) that appear within the genomes of two related species, but not necessarily in the same location of within the genomes.
+		A synteny block can appear in the same location of the genome for both species, it could have moved but stayed within the same chromosome, or it could even have moved across chromosomes.
+		A pair of synteny blocks from two different species dont have to be completely identical, only very similar.
+		
+PRTM
+	Peptide bond - Two amino acids that link together form a "peptide bond". 
+		When a peptide bond is formed a single water molecule is released.
+		E.g. a polypeptide with n amino acids had n-1 water molecules released when it was formed
+	Residue
+		A molecule from which a water molecule has been removed.
+		Every amino acid in a protein is a residue except for the leftmost and the rightmost ones, with those two having a single "extra" water molecule between them.
+	Mass of a protein - The sum of the masses of all the residues of the protein plus the mass of a single water molecule (this is wierd, this doesnt count the two amino acids that are not residues?)
+	Mass of a residue - Sum of the masses of its individual atoms. 
+		Two standard ways to do compute this sum, using "monoisotopic mass" or "average mass"
+	Monoisotopic mass - The monoisotopic mass of a molecule (in our case the residue) is the sum of the atoms in the molecule 
+		using the mass of the most abundant isotope of each atom.
+	Average mass - The average mass of a molecule (in our case the residue) is the sum of the atoms in the molecule 
+		using the weighted average mass of each atom over its naturally occurring isotopes (isotopic average mass of an atom is: the sum of (isotope abundance*isotope mass) over all naturally occurring isotopes of the atom)
+	Mass spectrometry - Method to determine the mass, elemental composition and structure of molecules. 
+		Uses monoisotopic mass is more often than isotopic average mass, so amino acid masses are assumed to be monoisotopic unless otherwise stated
+		Many applications in proteomics rely on this technique.
+	Atomic mass unit - Standart unit used in mass spectrometry. 1/12th of the mass of a neutral atom of carbon-12.
+		Also called a "dalton" (abbreviated "Da")
+	Dalton(Da) - See "atomic mass unit"
+	Tandem mass spectrometry - Special class of mass spectrometry where a protein is first devided into peptides, which are then broken into ions for mass analysis.
+
+REVP
+	Bacteriophage - A virus that targets bacteria. Its goal is to insert DNA into a bacteria that will be replicated within it and produce as many copies of the phage as possible.
+	Restriction enzyme - Enzyme that operates by cutting through viral DNA in order to cripple the virus.
+		 Restriction enzymes are homodimers (all restriction enzyimes or just some(the ones relevant to this problem)?)
+	Homodimer - A molecule comprising two identical subtructures.
+		These substructures in the restriction enzymes seperate from the enzyme and bind to and cut one strand of the phage DNA, targeting the same string of nucleotides within the DNA strand.
+			This works best when the locations targeted by the enzyme are on both strands of the phage DNA, as close to each other as possible.
+	
+SPLC
+	RNA polymerase - Enzyme that initiates transcription of DNA to RNA by braking the bonds between the complementary bases of a double-stranded DNA, 
+		then creates a molecule called precursor mRNA (pre-mRNA) and reads the nucleotides of one of the two DNA strings (the "template strand") produced by splitting the double-stranded DNA, 
+		each time it reaches the next nucleotide it adds the complementary base of the nucleotide to the pre-mRNA (replacing thymine with uracil). 
+		When the process is completed the pre-mRNA should be identical to the DNA strand (the "coding strand") that was not used in the process (with thymine translating to uracil).
+		The pre-mRNA is chopped into segments called introns and exons, the introns are thrown out and the exons are glued together to form the mRNA.
+	pre-mRNA - immature mRNA (mRNA that is still being transcribed from DNA)
+	DNA template strand - The DNA strand of a double-stranded DNA that is used as a templated for DNA replication or RNA transcription.
+	DNA coding strand - The strand of a double-stranded DNA that is copied or transcribed into RNA.
+	Intron - A segment of a gene that is not used for translation into protein
+	Exon - A contiguous segmet of RNA converted into mRNA for protein translation.
+	Splicing - The process of cutting mRNA into introns and exons and gluing the exons together.
+	Spliceosome - A macromolecule of RNA and proteins that facilitate RNA splicing.
+	Coding region of a gene - The collection of exons derived from a gene.

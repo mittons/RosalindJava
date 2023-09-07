@@ -1,0 +1,26 @@
+Prob of XX with Xx and XX parents
+Prob of XX with Xx and Xx parents
+Prob of XX with Xx and xx parents (0)
+
+Prob of Xx with Xx and XX parents
+Prob of Xx with Xx and Xx parents
+Prob of Xx with Xx and xx parents
+
+Prob of xx with Xx and XX parents (0)
+Prob of xx with Xx and Xx parents
+Prob of xx with Xx and xx parents
+
+
+Prob of both children being XX is prob(childXX)*prob(childXX)
+Prob of both children being Xx is prob(childXx)*prob(childXx)
+Prob of both children being xx is prob(childxx)*prob(childxx)
+
+blah blah
+prob of grand child being xx/Xx/XX ?
+
+k and N from problem and this:
+http://www.regentsprep.org/regents/math/algtrig/ats7/blesson2.htm
+n = 2**k
+r = N
+
+sum of (nCr * (1/4)**r *(3/4)**(n-r)) for values of r including and between N and n.

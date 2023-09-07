@@ -1,0 +1,20 @@
+SUBS
+	Substring search - Finding locations where substring t occurs within a string s.
+		Solution algorith: The Knuth-Morris-Pratt algorithm. (and possibly other algorithms)
+
+GRPH
+	Overlap graph - Given a postive integer k and a collection of strings, the overlap graph given k, O_{k}, for the collection of strings is a 
+		directed graph where each string represents a node and an directed edge from string "s" to string "t" means that the k suffix of "s" matches the k prefix of "t".
+
+LCSM
+	Common substring - Given a list of strings, a "common substring" is a substring of every string in the list.
+	Longest common substring - Given a list of strings, the "longest common substring" is the longest "common substring" of the list.
+	
+PMCH
+	Matching in a graph G - Collection of edges of G where no node belongs to more than one edge in the collection
+	Perfect matching in a graph G - If G contains a even number of nodes, i.e. 2n nodes, then a matching in G is perfect if it contains n edges (e.g. every nodes in G belong to an edge in the matching)
+	Complete graph - Graph where each node is connected to every other node with an edge.
+	Bonding graph of an RNA string - Each symbol(base) in the string is represented by a node.
+		The nodes of adjacent symbols in the strings are connected by an edge called "adjacency edge".
+		Then, we add an edge, called "basepair edge", between every every pair of nodes where the nodes have complementary bases (i.e. one has base A and the other U, or one has C and the other G) 
+			

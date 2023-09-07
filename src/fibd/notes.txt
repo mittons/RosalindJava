@@ -1,0 +1,61 @@
+[1, 0, 0]
+ |
+
+[1, 0, 0]
+    |
+
+[1, 0, 1]
+       |
+
+[1, 0, 1]
+ |
+
+[1, 1, 1]
+    |
+
+[1, 1, 2]
+       |
+
+[2, 1, 2]
+ |
+
+[2, 3, 2]
+    |
+
+[2, 3, 4]
+
+m = rabbitLifetime = 3;
+
+int bornThisMonth = 1;
+int bornLastMonth = 0;
+int currBreedingPairs = 0;
+
+int deathCycleIdx = 0;
+int[] deathCycleData = [1, 0, 0]
+
+for (i = 1; i < n; i++)
+{
+    int bornLastMonth = bornThisMonth;
+    deathCycleIdx = (deathCycleIdx + 1) % m;
+    int dieThisMonth = deathCycleData[deathCycleIdx]
+    bornThisMonth = currBreedingPairs;
+
+    deathCycleData[deathCycleIdx] = bornThisMonth;
+
+    currBreedingPairs -= dieThisMonth;
+    currBreedingPairs += bornLastMonth;
+}
+
+
+added last month in death modulus cycle (lastMthBirths)
+currentlyBreeding
+dieThisMth = deathCycleInfo[deathModIdx]
+bornThisMth = currentlyBreeding
+
+currentlyBreeding -= dieThisMth;
+currentlyBreeding += lastMthBirths;
+
+deathCycleInfo[deathModIdx] = bornThisMth;
+lastMthBirths = bornThisMth;
+
+deathModIdx = (deathModIdx + 1)%rabbitLifetime;

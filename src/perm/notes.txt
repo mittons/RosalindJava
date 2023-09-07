@@ -1,0 +1,18 @@
+recursive algorithm for genrating permutations of a list by switching the elements
+each level i of recursion swaps the element at index i with each of the elements with indexes greater than i and then at the next level of recursion (and every level there after) elements at indexes 0 to i will not be moved
+the following is a visualization of the algorithm,
+    elements without an exclamation mark can still be swapped
+    elements with an exclamation mark are in their final position in that level of recursion and in every recursive call originating for that level/recursive call.
+    note this only shows 1/4th of the full run for four elements (the cases where 1, 2 or 3 are in the first position are skipped)
+
+0	1	2	3
+	0!	1	2	3
+		0!	1!	2	3
+			0!	1!	2!	3
+			0!	1!	3!	2
+		0!	2!	1	3
+			0!	2!	1!	3
+			0!	2!	3!	1
+		0!	3!	2	1
+			0!	3!	2!	1
+			0!	3!	1!	2

@@ -1,0 +1,1 @@
+A unrooted binary tree with n leaves has n-2 internal nodes
